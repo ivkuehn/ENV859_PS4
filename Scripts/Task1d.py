@@ -1,5 +1,5 @@
-#%% Task 1c: Enabling user input
-# Copy the script written from Task 1b.
+#%% Task 1d: Adding auto-generated output names.
+# Copy the script written from Task 1c.
 
 import arcpy
 import sys
