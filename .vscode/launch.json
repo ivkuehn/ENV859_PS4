@@ -11,8 +11,8 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "args": [
-                "1000",
-                "V:/"
+                "V:/ENV859_PS4/Data/TriCounties.shp",
+                "CO_NAME"
             ]
         },
     ]

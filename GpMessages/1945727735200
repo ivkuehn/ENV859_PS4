@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, November 3, 2026 4:55:48 PM</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+﻿  File "V:\ENV859_PS4\PS4.tbx#Task4Script_PS3.py", line 21, in &lt;module&gt;
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 2782, in wrapped
+    result = fn(*args, **kwargs)
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 749, in GetParameterAsText
+    return gp.getParameterAsText(index)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 264, in getParameterAsText
+    self._gp.GetParameterAsText(*gp_fixargs(args, True)))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Object: Error in getting parameter as text
+﻿</msg><msg code="0" type="0">Failed script Task 4 Script...</msg><msg code="-2147467259" type="100">Failed to execute (Task4Script).</msg><msg code="0" type="3">Failed at Tuesday, November 3, 2026 4:55:50 PM (Elapsed Time: 2.38 seconds)</msg></messages>

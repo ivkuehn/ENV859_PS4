@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, November 3, 2026 6:22:27 PM</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+﻿  File "V:\ENV859_PS4\PS4.tbx#Task5Script_PS3.py", line 24, in &lt;module&gt;
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 2782, in wrapped
+    result = fn(*args, **kwargs)
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 764, in SetParameterAsText
+    return gp.setParameterAsText(index, text)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 269, in setParameterAsText
+    self._gp.SetParameterAsText(*gp_fixargs(args, True)))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Object: Error in setting parameter as text
+﻿</msg><msg code="0" type="0">Failed script Task 5 Script...</msg><msg code="-2147467259" type="100">Failed to execute (Task5Script).</msg><msg code="0" type="3">Failed at Tuesday, November 3, 2026 6:22:27 PM (Elapsed Time: 0.09 seconds)</msg></messages>
